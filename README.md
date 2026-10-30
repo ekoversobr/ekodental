@@ -6,11 +6,14 @@ Site estático em HTML, CSS e JavaScript, adaptado da estrutura inicial da Eko C
 - `index.html` — conteúdo e estrutura
 - `styles.css` — aparência e responsividade
 - `script.js` — menu móvel e formulário que prepara mensagem para WhatsApp
+- `logo-eko-dental.png` — logotipo enviado para a Eko Dental
 
 ## Configurações adaptadas
 - Nome: Eko Dental — Odontologia Especializada
 - Endereço informado: Av. Valdemar Naziazeno, 940 — Ernesto Geisel, João Pessoa/PB
 - WhatsApp: `5583999843311`
+
+Todos os links `wa.me` do HTML foram padronizados para `5583999843311`, e o formulário usa o mesmo número em `script.js`.
 
 ## Antes de publicar
 1. Confirme se o número e o endereço estão corretos.
