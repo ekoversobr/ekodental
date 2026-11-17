@@ -14,7 +14,7 @@
  *
  * O site envia só o código (ex.: ED7F3K), o GCLID e a página. Nenhum dado pessoal.
  */
-const PLANILHA_ID = 'PLANILHA_EKO_DENTAL';
+const PLANILHA_ID = '1HyUW0yUAtypG257qhs-vM4GLVGHqmkOHkcYzLXbc6og';
 const ABA = 'Cliques do site';
 
 function doPost(e) {
