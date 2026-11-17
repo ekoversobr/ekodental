@@ -12,7 +12,7 @@
 (function () {
   "use strict";
 
-  var ENDPOINT = ""; // URL /exec do App da Web do Apps Script da planilha da Eko Dental (ver _fonte/apps-script-planilha.gs)
+  var ENDPOINT = "https://script.google.com/macros/s/AKfycbzAQcFKkAc1RmFeJC_siqHk9p9Gxpexc7d5bweNhiVCLseXVfucglDh6vm9ZRaSzxBhjQ/exec"; // App da Web do Apps Script da planilha da Eko Dental
   var CHAVE = "ekodental_atendimento";
   var VALIDADE_MS = 90 * 24 * 60 * 60 * 1000;
 
